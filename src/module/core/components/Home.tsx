@@ -1,5 +1,5 @@
-import {IO, List} from "@matiassambrizzi/app-utils"
-import {Button, Card, CardActions, CardContent, Grid, Stack, Typography} from "@mui/material"
+import {IO} from "@matiassambrizzi/app-utils"
+import {Button, Card, CardActions, CardContent, Grid, Typography} from "@mui/material"
 import {ReactNode} from "react"
 
 export const Home = () => {
